@@ -1,0 +1,153 @@
+body
+{
+    text-align: center;
+    background-color: white;
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.profile
+{
+    width: 40%;
+    margin: auto;
+}
+hr
+{
+    border-style: dotted none none none;
+    width: 5%;
+    border-width: 5px;
+    color: #00a1ab;
+}
+
+p
+{
+    margin-top: 0px;
+    font-size: 1.5rem;
+    
+}
+
+h1
+{
+    font-size: 90px;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0px;
+    color: #66BFBF;
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color:#66BFBF ;
+    
+}
+
+.yt
+{
+    font-weight: normal;
+}
+
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    
+}
+
+.top-container
+{
+    padding-top: 120px;
+    background-color:#E4F9F5;
+    
+}
+
+.bottom-container
+{
+    background-color: #66BFBF;
+    padding-top: 40px;
+    margin: 0px;
+
+}
+
+
+.stu
+{
+    text-decoration: underline;
+}
+.sc
+{
+    margin-top: 50px;
+    color: #EAF6F6;
+    font-size: 15px;
+    line-height: 2;
+    margin-bottom: 0px;
+}
+
+.bottom-cloud
+{
+    display: block;
+    position: relative;
+    left: 500px;
+}   
+
+.top-cloud
+{
+    display: block;
+    position: relative;
+    left: 950px;
+    bottom: 10px;
+}
+
+a{
+    color: #11999E;
+}
+
+.skill-row
+{
+    margin: 50px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}    
+    
+
+
+.c
+{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.Tandoori
+{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+    
+}
+
+.btn
+{
+    display: inline-block;
+    margin-top: 40px;
+    margin-bottom: 50px ;
+    font-size: 20px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+.footer-link
+{
+    margin: 0 30px;
+    font-size: 16px;
+    color: #11999E;
+    text-decoration: none;
+    font-weight: bolder;
+}
